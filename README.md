@@ -38,6 +38,11 @@ Este proyecto es una aplicación web de Dragon Ball que muestra una lista de per
     ```bash
     npm install
     ```
+4. Crea un fichero .env con la url de la api de Dragon Ball:
+
+    ```bash
+    VITE_DRAGONBALL_API_URL=https://dragonball-api.com/api
+    ```
 
 ## Uso
 
